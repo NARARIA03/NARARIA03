@@ -1,11 +1,9 @@
 <h2 align="center"> 안녕하세요 👋 </h2>
 
 <p align="center"> 광운대학교 인공지능융합대학 정보융합학부 3학년 재학중입니다. </p>
-<p align="center"> 다양한 개발 경험을 가진 개발자가 되기 위해 노력합니다. </p>
+<p align="center"> 다양한 개발 경험을 가진 개발자가 되기 위해 노력하려 하고 있습니다. </p>
 
 <h2 align="center"> 📚 Tech Stack 📚 </h2>
-
-<h3 align="center"> ✨ Languages ✨ </h3>
 
 <div align="center">
 
@@ -19,7 +17,7 @@
 
 </div>
 
-<h3 align="center"> ✨ Now Study ✨ </h3>
+<h2 align="center"> ✨ Now Study ✨ </h2>
 
 <div align="center">
 
@@ -29,20 +27,6 @@
 
 </div>
 
-<h3 align="center"> 🛠 Tools 🛠 </h3>
-
-<div align="center">
-  
-![laptop](https://img.shields.io/badge/Apple-MacBook_Pro_14_M1_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
-
-![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-
-</div>
 
 <h3 align="center"> ⭐ BaekJoon ⭐ </h3>
 
