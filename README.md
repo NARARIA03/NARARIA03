@@ -1,40 +1,24 @@
-## 학습과 개발을 즐기는 프론트엔드 개발자
 
-안녕하세요. 새로운 기술을 배우고 서비스를 개발하는 것을 즐기는 신입 프론트엔드 개발자 최현성입니다.
 
-개발을 넘어, 사용자들이 사용할 서비스를 상상하고 설계하는 과정에서 행복을 느낍니다.
+안녕하세요. React와 RN 생태계를 사랑하는 프론트엔드 개발자 최현성입니다 👋👋
 
----
 
-## **Tech Stacks**
 
-### Front-End
+**Front-End**
 
 - `HTML`, `CSS`, `JS`, `TS`
 
-- `React`, `React Native`
+- `React`, `React Native`, `Next`, `Expo`
 
-- `CRA`, `Vite`, `Metro`
-
-- `npm`, `yarn`
-
-- `Jotai`, `Zustand`, ~~`Recoil`~~
+- `Jotai`, `Zustand`, `Tanstack-query`
 
 - `Styled-components`, `Tailwind CSS`
 
-- `WebSocket`, `WebRTC`, `Three.js`, `Pixi.js`
+**ETC**
 
-### Back-End & DevOps
+> 흥미, 취미 정도로 사용중인 기술입니다.
 
-- `FastAPI`, `Express`
-
-- `Docker`, `Docker-compose`
-
-- `NginX`, `PM2`
-
-### ETC
-
-- `Git`, `Github`, `Notion`
+`FastAPI`, `Express`, `Docker`, `NginX`, `PM2`, `WebSocket`, `WebRTC`, `Three.js`, `Pixi.js`
 
 ---
 
