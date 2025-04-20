@@ -1,18 +1,18 @@
-
-
 안녕하세요. React와 RN 생태계를 사랑하는 프론트엔드 개발자 최현성입니다 👋👋
-
-
 
 **Front-End**
 
 - `HTML`, `CSS`, `JS`, `TS`
 
-- `React`, `React Native`, `Next`, `Expo`
+- `React`, `React Native`, `Next.js`, `Expo`
 
 - `Jotai`, `Zustand`, `Tanstack-query`
 
 - `Styled-components`, `Tailwind CSS`
+
+**Now Studing**
+
+- `Jest`, `Vitest`, `React Testing Library`, `Storybook`
 
 **ETC**
 
@@ -26,8 +26,9 @@
 
 | Title                                                                                                                                                                  | Timeline            | Type | Description                                                                     | Tech Stack                                                                                                                           | Code                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| **[바다 이야기](https://oceangame.mooo.com)**                                                                                                                                 | 24.10.07 - 24.12.11 | 팀   | 실시간 멀티플레이 해양 쓰레기 수집 플래시 게임                                  | React, Vite, TS, Zustand, React-Router, TailwindCSS, Axios, Socket.io, Pixi.js, Express, MongoDB, Redis, Docker-compose, PM2, NginX  | [GitHub](https://github.com/NARARIA03/24-team-ho1ysea.git)                                 |
-| **[화상채팅 웹앱](https://chattingroom.mooo.com)**                                                                                                                               | 24.11.11 - 24.11.24 | 개인 | WebSocket과 WebRTC를 사용한 최대 3인 화상채팅 웹앱                              | React, Vite, TS, React-Router, TailwindCSS, Axios, Socket.io, Express, MySQL, NginX, PM2                                             | [GitHub](https://github.com/NARARIA03/WebRTC_Socket_Room)                                  |
+| **Melissa<br />[AppStore](https://apps.apple.com/kr/app/melissa/id6741430491)<br />[PlayStore]()**                                                                               | 24.12.27 - 진행중   | 팀   | 서포터 AI와 대화하면, 그림 일기를 생성해주는 앱                                 | Expo RN, TS, Axios, Tanstack-query, Styled-components                                                                                | [Github](https://github.com/team-Melissa/melissa-FE)                                       |
+| **[바다 이야기](https://oceangame.mooo.com)**                                                                                                                          | 24.10.07 - 24.12.11 | 팀   | 실시간 멀티플레이 해양 쓰레기 수집 플래시 게임                                  | React, Vite, TS, Zustand, React-Router, TailwindCSS, Axios, Socket.io, Pixi.js, Express, MongoDB, Redis, Docker-compose, PM2, NginX  | [GitHub](https://github.com/NARARIA03/24-team-ho1ysea.git)                                 |
+| **[화상채팅 웹앱](https://chattingroom.mooo.com)**                                                                                                                     | 24.11.11 - 24.11.24 | 개인 | WebSocket과 WebRTC를 사용한 최대 3인 화상채팅 웹앱                              | React, Vite, TS, React-Router, TailwindCSS, Axios, Socket.io, Express, MySQL, NginX, PM2                                             | [GitHub](https://github.com/NARARIA03/WebRTC_Socket_Room)                                  |
 | **[ImageTale](https://imagetale.mooo.com)**                                                                                                                            | 24.05.29 - 24.11.14 | 팀   | 선택지가 존재하는 AI 인터랙티브 동화책 웹앱 (캡스톤)                            | React, Vite, TS, React-Router, Styled-components, Axios, FastAPI, Docker, NginX                                                      | [GitHub](https://github.com/NARARIA03/ImageTale)                                           |
 | **[QRFret 2024](https://concert-14fret-2024.web.app)**                                                                                                                 | 24.09.25 - 24.11.01 | 개인 | 공연 추첨 이벤트를 위한 추첨번호 발급, 셋리스트 페이지와 관리자 페이지 구현     | React, Vite, TS, React-Router, TailwindCSS, react-cookie, Firebase(Firestore, Hosting)                                               | [GitHub](https://github.com/NARARIA03/QRFret_2024)                                         |
 | **[Exofinder](https://exofinder.github.io/FrontEnd)**                                                                                                                  | 24.09.03 - 24.10.06 | 팀   | HWO 망원경 시뮬레이터 / 외계 행성계 시각화 웹앱 (NASA Space Apps Challenge)     | React, Vite, TS, Jotai, TailwindCSS, Three.js, R3F, Drei, GSAP, Axios,                                                               | [GitHub](https://github.com/NARARIA03/Exofinder_FE)                                        |
